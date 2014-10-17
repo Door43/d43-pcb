@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pcb:home|Door43 (pcb)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pcb|d43-pcb repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pcb/archive/master.zip|d43-pcb.zip]]
+
+**Recent Changes**
+{{changes>ns = pcb}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pcb|Ethnologue data]]
+
